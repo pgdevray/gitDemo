@@ -6,5 +6,8 @@ public class Main {
 		
 		System.out.println("creating branch pooja.");
 		System.out.println("changes after doing commit but not pushed.");
+		System.out.println("Change for reseting commit.");
+		
+		
 	}
 }
