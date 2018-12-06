@@ -14,5 +14,8 @@ public class Main {
 		System.out.println("New branch named app is created");
 		appClass appClass = new appClass();
 		
+		System.out.println("New feature that has been added in app");
+		
+		
 	}
 }
