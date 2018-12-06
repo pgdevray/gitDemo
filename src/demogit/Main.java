@@ -11,5 +11,8 @@ public class Main {
 		System.out.println("Change for mixed and keep reseting commit.");
 		System.out.println("New line.");
 		
+		System.out.println("New branch named app is created");
+		appClass appClass = new appClass();
+		
 	}
 }
