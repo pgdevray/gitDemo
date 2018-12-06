@@ -15,7 +15,8 @@ public class Main {
 		appClass appClass = new appClass();
 		
 		System.out.println("New feature that has been added in app");
-		
-		
+	
+		System.out.println("Today's Date - ");
+		ShowDate showDate = new ShowDate(); 
 	}
 }
