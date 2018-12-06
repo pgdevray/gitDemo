@@ -9,7 +9,7 @@ public class Main {
 		System.out.println("Change for soft reseting commit.");
 		
 		System.out.println("Change for mixed and keep reseting commit.");
-		
+		System.out.println("New line.");
 		
 	}
 }
